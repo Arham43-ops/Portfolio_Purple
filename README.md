@@ -42,7 +42,7 @@ The certificates page has been transformed into a high-end digital showcase:
 ### Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/Arham43-ops/Portfolio_Purple.git
    cd Purple
    ```
 
